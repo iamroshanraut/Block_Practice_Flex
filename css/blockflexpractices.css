@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.container{
+    height: 600px;
+    display: flex;
+    
+}
+
+.box{
+    width: 15%;
+    height: 100px;
+    flex-grow: 1;
+    
+}
+
+.box1{
+    background-color: green;
+}
+
+.box2{
+    background-color: yellow;
+}
+
+.box3{
+    background-color: tomato;
+}
+
+.box4{
+    background-color: turquoise;
+}
+
+.box5{
+    background-color: sienna;
+}
+
+.box6{
+    background-color: red;
+}
+
+.box7{
+    background-color: purple;
+}
+
+.box8{
+    background-color: magenta;
+}
+
+.box9{
+    background-color: deepskyblue;
+}
+
+.box10{
+    background-color: goldenrod;
+}
